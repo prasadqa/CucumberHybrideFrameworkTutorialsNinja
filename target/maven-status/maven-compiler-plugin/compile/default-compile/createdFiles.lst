@@ -1,0 +1,8 @@
+pages/HomePage.class
+pages/RegisterPage.class
+pages/AccountPage.class
+utils/configReader.class
+pages/SearchResultPage.class
+utils/CommonUtils.class
+utils/ElementUtils.class
+pages/LoginPage.class
